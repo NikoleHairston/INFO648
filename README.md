@@ -1,2 +1,2 @@
 # INFO648
-Business Analytics
+Business Analytics repository. There will be a new folder for every lesson.
